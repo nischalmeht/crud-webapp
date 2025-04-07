@@ -35,5 +35,5 @@ A cross-platform **desktop task management application** built with **React**, *
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/task-manager-app.git
-   cd task-manager-app
+   git clone https://github.com/your-username/task-manager-app.g](https://github.com/nischalmeht/crud-webapp.git)
+   cd frontend/crud
