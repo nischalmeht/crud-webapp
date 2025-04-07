@@ -1,0 +1,15 @@
+{
+"appld": "com.n-web-app.crud-app ",
+"files":["dist"], 
+"mac":{
+    "target": "dmg"
+},
+"linux": {
+"target": "Applmage",
+"category": "Utility"
+},
+
+"win":{
+    "target" :["portable","nsis"]
+}
+}
